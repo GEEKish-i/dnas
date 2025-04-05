@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title>My DNA Sequencing programme</title>
+</head>
+<body>
+  <h1> HELLO </h1>
+  <p>Ive created this site to explain a python project that performs basic processes like translation, transcription etc on a DNA sequence. I have also linked the program 
+to NCBI Database using the biopython library to compare the given DNA sequence with actual sequences recorded in the database!</p>
+</body>
+</html>
+
